@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
 <title>Meme cloud save</title>
 </head>
 <body>
@@ -9,6 +6,3 @@
 <p>I'll probably improve this page later. So far there's only a few memes.</p>
 <p>Here's a list of all of the dank memes!<p>
 <a href="https://www.youtube.com/channel/UCm8PFNDIBEbU0N4Vm3ygBcg">Placeholder</a>
-
-</body>
-</html>
