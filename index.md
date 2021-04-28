@@ -1,4 +1,3 @@
-<title>Meme cloud save</title>
 </head>
 <body>
 
