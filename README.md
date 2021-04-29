@@ -1,8 +1,6 @@
 All the memes you'd ever want in the cloud!
 ===========================================
 
-I'll probably improve this page later. So far there's only a few memes.
-
 Here's a list of all of the dank memes!
 
 [WHY WOULD YOU DO THAT TO A HERSHEY??](https://plextora.github.io/meme-cloud-save/memes/hershey.mp4)
