@@ -1,5 +1,6 @@
 All the memes you'd ever want in the cloud!
 ===========================================
+DM me on discord @ Plextora#0033 for meme suggestions to add on the website!
 
 Here's a list of all of the dank memes!
 
@@ -28,3 +29,5 @@ Here's a list of all of the dank memes!
 [Signed copy of the bible](https://plextora.github.io/meme-cloud-save/memes/holy_bible_signed_copy.png)
 
 [My mom counted to zero](https://plextora.github.io/meme-cloud-save/memes/my_mom_counted_to_zero.jpg)
+
+[Intense slow mo fight](https://plextora.github.io/meme-cloud-save/memes/intense_slowmo_fight.mp4)
