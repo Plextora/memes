@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/plextora/meme-cloud-save/badge)](https://www.codefactor.io/repository/github/plextora/meme-cloud-save)
+
 All the memes you'd ever want in the cloud!
 ===========================================
 DM me on discord @ Plextora#0033 for meme suggestions to add on the website!
