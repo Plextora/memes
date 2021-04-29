@@ -31,3 +31,5 @@ Here's a list of all of the dank memes!
 [My mom counted to zero](https://plextora.github.io/meme-cloud-save/memes/my_mom_counted_to_zero.jpg)
 
 [Intense slow mo fight](https://plextora.github.io/meme-cloud-save/memes/intense_slowmo_fight.mp4)
+
+[Breaking bad intensifies (Gif) (Credit to u/i_dont_eatbabies for the meme)](https://plextora.github.io/meme-cloud-save/memes/breaking_bad.gif)
