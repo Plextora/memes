@@ -1,4 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/plextora/meme-cloud-save/badge)](https://www.codefactor.io/repository/github/plextora/meme-cloud-save)
+[![CodeFactor](https://www.codefactor.io/repository/github/plextora/memes/badge)](https://www.codefactor.io/repository/github/plextora/memes)
 
 All the memes you'd ever want in the cloud!
 ===========================================
