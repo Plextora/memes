@@ -1,6 +1,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/plextora/memes/badge)](https://www.codefactor.io/repository/github/plextora/memes)
 
-All the memes you'd ever want in the cloud!
+All the memes you'd ever want saved to a single website!
 ===========================================
 DM me on discord @ Plextora#0033 for meme suggestions to add on the website!
 
