@@ -1,0 +1,88 @@
+/*
+	Axiom by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	/* FA Icons */
+		
+		.pennant
+		{
+			position: relative;
+			-ms-behavior: url('css/ie/PIE.htc');
+		}
+
+/*********************************************************************************/
+/* Nav                                                                           */
+/*********************************************************************************/
+
+	#nav
+	{
+	}
+
+		#nav > ul > li
+		{
+		}
+	
+	.dropotron.level-0
+	{
+		position: relative;
+		-ms-behavior: url('css/ie/PIE.htc');
+	}
+
+	.dropotron.level-0
+	{
+		margin-top: -0.40em;
+	}
+	
+		.dropotron.level-0:before
+		{
+			border-left: solid 0.8em #41475C;
+			border-right: solid 0.8em #41475C;
+		}
+	
+	
+/*********************************************************************************/
+/* Featured                                                                      */
+/*********************************************************************************/
+	
+	#featured
+	{
+	}
+	
+		#featured .image img
+		{
+			position: relative;
+			-ms-behavior: url('css/ie/PIE.htc');
+		}
+	
+				ul.icons li a
+				{
+					position: relative;
+					-ms-behavior: url('css/ie/PIE.htc');
+				}
+
+/*********************************************************************************/
+/* Slidertron                                                                    */
+/*********************************************************************************/		
+
+	#slider
+	{
+	}
+
+	#slider .previous-button
+	{
+		background: #FFF;
+		-ms-behavior: url('css/ie/PIE.htc');
+	}
+
+	#slider .next-button
+	{
+		background: #FFF;
+		-ms-behavior: url('css/ie/PIE.htc');
+	}
+	

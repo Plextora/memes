@@ -1,0 +1,257 @@
+/*
+	Axiom by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select
+	{
+		font-size: 9.5pt;
+		letter-spacing: 0.05em;
+	}
+
+	form
+	{
+		width: 100%;
+	}
+	
+	/* Lists */
+	
+		ul.featured
+		{
+		}
+	
+			ul.featured li
+			{
+			}
+
+		ul.icons
+		{
+			float: none;
+			display: block;
+			padding-top: 2em;
+		}	
+
+/*********************************************************************************/
+/* UI                                                                            */
+/*********************************************************************************/
+
+	#titleBar
+	{
+		background: none;
+	}
+
+		#titleBar .title
+		{
+			display: none;
+			color: #fff;
+			text-align: center;
+			line-height: 44px;
+		}
+
+		#titleBar .toggle
+		{
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 80px;
+			height: 60px;
+		}
+
+			#titleBar .toggle:before
+			{
+				content: '';
+				position: absolute;
+				left: 7px;
+				top: 7px;
+				background: rgba(0,0,0,0.2);
+				width: 60px;
+				height: 44px;
+			}
+
+			#titleBar .toggle:after
+			{
+				content: '';
+				display: block;
+				width: 20px;
+				height: 12px;
+				position: absolute;
+				left: 28px;
+				top: 23px;
+				background: url('images/toggle.svg') 0px 0px no-repeat;
+				opacity: 0.7;
+			}
+
+			#titleBar .toggle:active:after
+			{
+				opacity: 0.75;
+			}
+
+	#navPanel
+	{
+		background: #242b30;
+	}
+
+		#navPanel .link
+		{
+			display: block;
+			color: #888;
+			color: rgba(255,255,255,0.6);
+			text-decoration: none;
+			height: 44px;
+			line-height: 44px;
+			border-top: solid 1px rgba(255,255,255,0.05);
+			padding: 0 1em 0 1em;
+		}
+		
+			#navPanel .link:first-child
+			{
+				border-top: 0;
+			}
+			
+			#navPanel .link.depth-0
+			{
+				color: #fff;
+			}
+
+			#navPanel .indent-1 { display: inline-block; width: 1em; }
+			#navPanel .indent-2 { display: inline-block; width: 2em; }
+			#navPanel .indent-3 { display: inline-block; width: 3em; }
+			#navPanel .indent-4 { display: inline-block; width: 4em; }
+			#navPanel .indent-5 { display: inline-block; width: 5em; }
+			#navPanel .depth-0 { color: #fff; }
+
+
+/*********************************************************************************/
+/* Nav                                                                           */
+/*********************************************************************************/
+	
+	#nav
+	{
+		display: none;
+	}
+	
+/*********************************************************************************/
+/* Footer                                                                        */
+/*********************************************************************************/
+	
+	#footer
+	{
+		padding: 2em 2em 1.5em 2em;
+		text-align: center;
+	}
+	
+		
+		#footer .copyright
+		{
+			display: block;
+			padding-top: 0.60em;
+			letter-spacing: 0.05em;
+		}
+		
+/*********************************************************************************/
+/* Featured                                                                      */
+/*********************************************************************************/
+	
+	#featured
+	{
+	}
+	
+		#featured section
+		{
+			margin-bottom: 3em;
+		}
+
+		#featured h3
+		{
+			margin-top: 0.75em;
+		}
+	
+		#featured .image
+		{
+			float: left;
+			margin-right: 3em;
+		}
+	
+		#featured .image img
+		{
+			width: 100%;
+		}
+
+/*********************************************************************************/
+/* Newsletter                                                                    */
+/*********************************************************************************/
+
+	#newsletter
+	{
+	}
+	
+		#subscribe
+		{
+			width: 80%;
+		}
+
+/*********************************************************************************/
+/* Slider                                                                        */
+/*********************************************************************************/		
+
+	#slider
+	{
+		height: 260px;
+	}
+
+		#slider .viewer
+		{
+			width: 500px;
+			height: 260px;
+		}
+	
+			#slider .viewer .reel
+			{
+				height: 260px;
+			}
+	
+			#slider .viewer .reel .slide
+			{
+				width: 500px !important;
+				height: 260px;
+			}
+
+	#slider .previous-button
+	{
+		top: 125px;
+		left: 20px;
+	}
+
+	#slider .next-button
+	{
+		top: 125px;
+		right: 20px;
+	}
+	
+	#slider .pennant
+	{
+	}
+
+	#slider .links
+	{
+		font-size: 1.4em;
+	}	
+	
+		#slider p
+		{
+			font-size: 1.4em;
+		}
+		
+/*********************************************************************************/
+/* Footer                                                                        */
+/*********************************************************************************/
+
+	#footer
+	{
+		margin-bottom: 0;
+	}

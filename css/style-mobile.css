@@ -1,0 +1,317 @@
+/*
+	Axiom by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select
+	{
+		line-height: 1.75em;
+		font-size: 9.5pt;
+		letter-spacing: 0.05em;
+	}
+
+	body
+	{
+		padding-top: 0px;
+		min-width: 320px;
+	}
+
+	h2, h3, h4, h5, h6
+	{
+		font-size: 1.5em;
+	}
+
+	section,
+	article
+	{
+		clear: both;
+		margin: 2em 0 2em 0 !important;
+	}
+
+	section > :first-child,
+	article > :first-child
+	{
+		margin-top: 0 !important;
+	}
+
+	section:first-child,
+	article:first-child
+	{
+		margin-top: 0 !important;
+	}
+	
+
+	/* Lists */
+
+		ul.default
+		{
+		}
+		
+
+		ul.icons
+		{
+			float: none;
+			cursor: default;
+			text-align: center;
+		}	
+	
+	.button
+	{
+		width: 100%;
+		max-width: 300px;
+		padding: 0.50em 0em 0.70em 0em;
+		text-align: center;
+	}
+
+/*********************************************************************************/
+/* Logo                                                                          */
+/*********************************************************************************/
+
+	#logo
+	{
+		padding: 6em 0em 4em 0em;
+		margin-top: 0;
+	}
+	
+		#logo div
+		{
+			padding: 0 4em 0 4em;
+			height: 8px;
+		}
+		
+		#logo h1
+		{
+			position: relative;
+			display: inline;
+			padding: 0em 0.50em;
+			top: -0.35em;
+			text-transform: uppercase;
+			font-size: 2em;
+			font-weight: 700;
+		}
+	
+		
+		#logo span
+		{
+			font-size: 1.1em;
+		}
+	
+/*********************************************************************************/
+/* Banner                                                                        */
+/*********************************************************************************/
+
+	#banner
+	{
+		padding: 3em 2em 3em 2em;
+		overflow: hidden;
+	}
+	
+		#banner section
+		{
+			margin: 0 !important;
+		}
+	
+		#banner header
+		{
+			margin: 0;
+		}
+
+		#banner header h2
+		{
+			font-size: 2em;
+		}
+
+		#banner header .byline
+		{
+			font-size: 1.4em;
+		}
+		
+		#banner footer
+		{
+			box-shadow: none;
+			height: auto;
+			width: 100%;
+			margin: 1em 0 0 0;
+			min-width: 0;
+		}
+		
+		#banner .button
+		{
+			top: 0;
+			font-size: 1em;
+		}
+
+/*********************************************************************************/
+/* Content                                                                       */
+/*********************************************************************************/
+
+	#main
+	{
+		padding: 2em 2em 1.5em 2em;
+	}
+
+	#content
+	{
+		position: relative;
+		padding: 2em 2em 1.5em 2em;
+	}
+
+/*********************************************************************************/
+/* Featured                                                                      */
+/*********************************************************************************/
+	
+	#featured
+	{
+		padding: 3em 2em 2em 2em;
+		text-align: center;
+	}
+
+		#featured h3
+		{
+			padding: 0.80em 0em 0.50em 0em;
+			letter-spacing: 0.10em;
+			font-size: 2em;
+		}
+	
+		#featured .image
+		{
+			float: none;
+			display: block;
+			margin-right: 0em;
+		}
+	
+		#featured .image img
+		{
+			display: inline-block;
+			width: inherit;
+			background-color: #c0c2ca;
+			border-radius: 50%;
+		}
+
+/*********************************************************************************/
+/* Extra                                                                        */
+/*********************************************************************************/
+	
+	#extra
+	{
+		padding: 3em 2em 2em 2em;
+	}
+
+/*********************************************************************************/
+/* Intro                                                                         */
+/*********************************************************************************/
+
+	#intro
+	{
+		position: relative;
+		padding: 3em 0em 2em 0em;
+		text-align: center;
+		color: #FFF;
+	}
+	
+		#intro:before
+		{
+			content: '';
+			position: absolute;
+			display: block;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			z-index: 1;
+		}
+		
+		#intro .heading
+		{
+		}
+		
+			#intro .heading span
+			{
+			}
+
+			#intro .txt1
+			{
+				line-height: 1em !important;
+				font-size: 2.4em;
+			}
+
+			#intro .txt2
+			{
+				font-size: 1.4em;
+			}
+
+/*********************************************************************************/
+/* Newsletter                                                                    */
+/*********************************************************************************/
+
+	#newsletter
+	{
+		padding: 4em 2em 3em 2em;
+	}
+	
+	#subscribe
+	{
+		width: 100%;
+	}
+	
+		#subscribe .button
+		{
+			width: auto;
+			padding: 0 1em 0 1em;
+		}
+
+/*********************************************************************************/
+/* Slider                                                                        */
+/*********************************************************************************/		
+
+	#slider
+	{
+		height: 260px;
+	}
+
+		#slider .viewer
+		{
+			width: 280px;
+			height: 260px;
+		}
+	
+			#slider .viewer .reel
+			{
+				height: 260px;
+			}
+	
+			#slider .viewer .reel .slide
+			{
+				width: 280px !important;
+				height: 260px;
+			}
+
+	#slider .previous-button
+	{
+		display: none;
+	}
+
+	#slider .next-button
+	{
+		display: none;
+	}
+	
+
+	#slider .pennant
+	{
+		font-size: 1.2em;
+	}
+
+	#slider .links
+	{
+		font-size: 1.4em;
+	}	
+	
+		#slider p
+		{
+			font-size: 1.2em;
+		}

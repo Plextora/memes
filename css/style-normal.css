@@ -1,0 +1,126 @@
+/*
+	Axiom by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select
+	{
+		font-size: 9.5pt;
+	}
+
+/*********************************************************************************/
+/* Banner                                                                        */
+/*********************************************************************************/
+
+	#banner
+	{
+	}
+	
+		#banner header
+		{
+		}
+
+		#banner header h2
+		{
+			font-size: 4em;
+		}
+
+		#banner header .byline
+		{
+			font-size: 2.4em;
+		}
+
+/*********************************************************************************/
+/* Slider                                                                        */
+/*********************************************************************************/		
+
+	#slider
+	{
+		height: 300px;
+	}
+
+		#slider .viewer
+		{
+			width: 700px;
+			height: 300px;
+		}
+	
+			#slider .viewer .reel
+			{
+				height: 300px;
+			}
+	
+			#slider .viewer .reel .slide
+			{
+				width: 700px !important;
+				height: 300px;
+			}
+
+	#slider .previous-button
+	{
+		top: 135px;
+	}
+
+	#slider .next-button
+	{
+		top: 135px;
+	}
+	
+	#slider .pennant
+	{
+	}
+
+	#slider .links
+	{
+		font-size: 1.4em;
+	}	
+	
+		#slider p
+		{
+			font-size: 1.8em;
+		}
+
+/*********************************************************************************/
+/* Featured                                                                      */
+/*********************************************************************************/
+	
+	#featured
+	{
+	}
+
+		#featured h3
+		{
+			padding: 0.80em 0em 0.50em 0em;
+			letter-spacing: 0.10em;
+			font-size: 1.6em;
+		}
+	
+		#featured .image
+		{
+			margin-right: 0.50em;
+		}
+	
+		#featured .image img
+		{
+			width: 90%;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
